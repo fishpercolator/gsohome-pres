@@ -7,3 +7,16 @@
     background: none;
     box-shadow: none;
 }
+
+.reveal img.q {
+    width: 600px !important;
+    margin: 5px 0px !important;
+}
+
+.reveal img.logo {
+    width: 200px !important;
+    height: 200px !important;
+    margin: 1em;
+    border: none;
+    box-shadow: none;
+}
