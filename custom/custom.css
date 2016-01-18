@@ -1,0 +1,9 @@
+.reveal img {
+    max-height: 550px !important;
+}
+
+.reveal img.borderless {
+    border: none;
+    background: none;
+    box-shadow: none;
+}

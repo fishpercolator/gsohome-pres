@@ -1,11 +1,11 @@
 {
-    "title": "gsohome",
-    "description": "",
-    "author": "",
+    "title": "GSOH: Good Sense of Home",
+    "description": "A dating website for neighbourhoods",
+    "author": "Rich Daley",
     "options": {
-        "theme": "black",
-        "transition": "slide",
-        "controls": true,
+        "theme": "white",
+        "transition": "convex",
+        "controls": false,
         "progress": true,
         "history": true,
         "center": true
